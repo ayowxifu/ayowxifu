@@ -1,11 +1,4 @@
-Thanks for the headpat❤️
-
-
--Most people call me Luna yet it isn't my real name.
-
--Idiot trying to understand JS and humans
-
--Bye❤️
+Hii
 
 <!---
 plscallmeluna/plscallmeluna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
