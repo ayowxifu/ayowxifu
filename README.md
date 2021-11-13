@@ -1,6 +1,7 @@
-Hii
+#  Hi there! Call me Lun :3
 
-<!---
-plscallmeluna/plscallmeluna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I study software engineering in Germany while also working on some own projects using Python and NodeJS.
+
+Aside of that I like to work with Linux and VMs.
+
+Take a look around if you like! :purple_heart: 
