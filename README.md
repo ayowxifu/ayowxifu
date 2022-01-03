@@ -18,6 +18,7 @@ Languages: JavaScript, ABAP, Shell
            HTML, CSS, C#, Java 
 Learning: Python and more to come
 Discord: justlun#6666
+Odysee: @justlun
 ```
 
 <p align="center">
