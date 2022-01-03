@@ -11,6 +11,7 @@ justlun @ github
 -------------------------
 OS: Pop!_OS 21.10 x86_64
 Shell: bash 5.1.8
+Terminal: Alacritty
 Pronouns: Any, preferred she/her
 Location: Germany / Bavaria
 Languages: JavaScript, ABAP, Shell
