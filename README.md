@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<a href="https://gitlab.xlun.moe">
+<a href="https://gitlab.xlun.moe/justlun">
     <img align="left" src="https://spee.ch/c/f12795b89c243797.jpg?quality=85&height=200&width=0" alt="pfp" width="260" height="260">
 </a>
 
