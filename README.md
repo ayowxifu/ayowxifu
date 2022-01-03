@@ -3,7 +3,7 @@
 ```
 
 <a href="https://gitlab.xlun.moe">
-    <img align="left" src="https://spee.ch/c/f12795b89c243797.jpg?quality=85&height=200&width=0" alt="pfp" width="290">
+    <img align="left" src="https://spee.ch/c/f12795b89c243797.jpg?quality=85&height=200&width=0" alt="pfp" width="290" height="460">
 </a>
 
 ```csharp
