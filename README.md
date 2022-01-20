@@ -12,9 +12,9 @@ justlun @ github
 OS: Arch Linux x86_64
 Shell: bash 5.1.12
 Terminal: Alacritty
-Pronouns: Any, preferred she/her
+Pronouns: Any
 Location: Germany / Bavaria
-Languages: JavaScript, ABAP, Shell
+Languages: JavaScript, ABAP, 
            HTML, CSS, C#, Java 
 Learning: Python and more to come
 Discord: justlun#6666
