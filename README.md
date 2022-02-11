@@ -67,3 +67,5 @@ Odysee: @justlun
     />
   </a>
 </p>
+
+<img src="https://count.getloli.com/get/@lunlun?theme=gelbooru" alt="lun" />
