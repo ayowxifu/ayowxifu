@@ -7,7 +7,7 @@
 </a>
 
 ```csharp
-justlun @ github
+wxifu @ github
 -------------------------
 OS: Arch Linux x86_64
 Shell: bash 5.1.12
