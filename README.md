@@ -17,7 +17,7 @@ Location: Germany / Bavaria
 Languages: JavaScript, ABAP, 
            HTML, CSS, C#, Java 
 Learning: Python and more to come
-Discord: justlun#6666
+Discord: wxifu#6969
 Odysee: @justlun
 ```
 
