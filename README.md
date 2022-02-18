@@ -2,8 +2,8 @@
 > neofetch
 ```
 
-<a href="https://gitlab.xlun.moe/justlun">
-    <img align="left" src="https://spee.ch/c/f12795b89c243797.jpg?quality=85&height=200&width=0" alt="pfp" width="260" height="260">
+<a href="https://git.yzki.de/wxifu">
+    <img align="left" src="https://avatars.githubusercontent.com/u/78354242?v=4" alt="pfp" width="260" height="260">
 </a>
 
 ```csharp
