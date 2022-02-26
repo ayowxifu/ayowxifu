@@ -10,15 +10,15 @@
 wxifu @ github
 -------------------------
 OS: Arch Linux x86_64
-Shell: bash 5.1.12
+Shell: zsh 5.8.1
 Terminal: Alacritty
+WM: dusk
 Pronouns: Any
 Location: Germany / Bavaria
 Languages: JavaScript, ABAP, 
            HTML, CSS, C#, Java 
 Learning: Python and more to come
-Discord: wxifu#6969
-Odysee: @justlun
+Discord: wxifu♡#6969
 ```
 
 <p align="center">
