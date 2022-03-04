@@ -3,8 +3,14 @@
 ```
 
 <a href="https://git.yzki.de/wxifu">
-    <img align="left" src="https://avatars.githubusercontent.com/u/78354242?v=4" alt="pfp" width="260" height="260">
+    <img align="left" src="https://avatars.githubusercontent.com/u/78354242?v=4" alt="pfp" width="260" height="260" id="pfp">
 </a>
+
+<style> 
+    #pfp img {
+        border-radius: 5px;
+    }
+</style>
 
 ```csharp
 wxifu @ github
