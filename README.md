@@ -50,6 +50,3 @@ Discord: wxifu♡#6969
     height="25"
   />
 </p>
-
-
-<img src="https://discord.c99.nl/widget/theme-3/650832778505486336.png" align="center" width="47%">
