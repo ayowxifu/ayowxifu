@@ -1,5 +1,5 @@
 ```zsh
-> neofetch
+> waifu in ~ λ neofetch
 ```
 
 <a href="https://git.yzki.de/wxifu">
