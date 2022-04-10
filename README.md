@@ -14,9 +14,10 @@ Shell: zsh 5.8.1
 Terminal: Alacritty
 WM: dusk
 Pronouns: Any
-Location: Germany / Bavaria
+Languages: English, German, Japanese 
+Location: Germany
 Languages: JavaScript, HTML, CSS, C#, Java, PHP, ABAP, SQL
 Frameworks: NodeJS, Vue, NextJS, Svelte, TailwindCSS
-Learning: Rust, Go, Elixir, 
+Learning: Rust, Go, Elixir, Remix, NestJS
 Discord: wxifu♡#6969
 ```
