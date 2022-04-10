@@ -15,38 +15,8 @@ Terminal: Alacritty
 WM: dusk
 Pronouns: Any
 Location: Germany / Bavaria
-Languages: JavaScript, ABAP, 
-           HTML, CSS, C#, Java 
+Languages: JavaScript, HTML, CSS, C#, Java, PHP, ABAP
+Frameworks: NodeJS, Vue, NextJS, Svelte, TailwindCSS
 Learning: Python and more to come
 Discord: wxifu♡#6969
 ```
-
-<p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img
-    alt="#b8edf1"
-    src="https://via.placeholder.com/15//F6E7E4?text=+"
-    width="30"
-    height="25"
-  /><img
-    alt="#02fafc"
-    src="https://via.placeholder.com/15/6C5FA5/000000?text=+"
-    width="30"
-    height="25"
-  /><img
-    alt="#2090a0"
-    src="https://via.placeholder.com/15/483537/000000?text=+"
-    width="30"
-    height="25"
-  /><img
-    alt="#0c6281"
-    src="https://via.placeholder.com/15/D5A591/000000?text=+"
-    width="30"
-    height="25"
-  /><img
-    alt="#03f99f"
-    src="https://via.placeholder.com/15/B6855D/000000?text=+"
-    width="30"
-    height="25"
-  />
-</p>
