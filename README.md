@@ -11,13 +11,13 @@ wxifu @ github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8.1
-Terminal: Alacritty
+Terminal: Alacritty / st
 WM: dusk
-Pronouns: Any
+Pronouns: she/her
 Languages: English, German, Japanese 
-Location: Germany
+Location: Osaka
 Languages: JavaScript, HTML, CSS, C#, Java, PHP, ABAP, SQL
 Frameworks: NodeJS, Vue, NextJS, Svelte, TailwindCSS
 Learning: Rust, Go, Elixir, Remix, NestJS
-Discord: wxifu♡#6969
+Discord: ayowxifu♡#6969
 ```
