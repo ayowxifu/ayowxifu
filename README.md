@@ -9,15 +9,15 @@
 ```csharp
 wxifu @ github
 -------------------------
-OS: Arch Linux x86_64
+OS: Arch Linux x86_64 | NixOS
 Shell: zsh 5.8.1
-Terminal: Alacritty / st
-WM: dusk
+Terminal: Alacritty
+WM: dwm / i3 | KDE
 Pronouns: she/her
 Languages: English, German, Japanese 
 Location: Osaka
-Languages: JavaScript, HTML, CSS, C#, Java, PHP, ABAP, SQL
-Frameworks: NodeJS, Vue, NextJS, Svelte, TailwindCSS
-Learning: Rust, Go, Elixir, Remix, NestJS
+Languages: JavaScript, HTML, CSS, C#, Java, PHP, ( ABAP, SQL )
+Frameworks: NodeJS, Vue, NextJS, Svelte, ( TailwindCSS )
+Learning: Rust, Go, Elixir
 Discord: ayowxifu♡#6969
 ```
