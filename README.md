@@ -21,3 +21,5 @@ Frameworks: NodeJS, Vue, NextJS, Svelte, ( TailwindCSS )
 Learning: Rust, Go, Elixir
 Discord: ayowxifu♡#6969
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayowxifu)](https://github.com/anuraghazra/github-readme-stats)
