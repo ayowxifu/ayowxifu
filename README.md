@@ -14,10 +14,10 @@ Shell: zsh 5.8.1
 Terminal: Alacritty
 WM: dwm / i3 | KDE
 Pronouns: she/her
-Languages: English, German, Japanese 
-Location: Osaka
-Languages: JavaScript, HTML, CSS, C#, Java, PHP, ( ABAP, SQL )
-Frameworks: NodeJS, Vue, NextJS, Svelte, ( TailwindCSS )
+Languages: English, German
+Location: SR, DE
+Languages: JavaScript, HTML, CSS, Java, PHP
+Frameworks: NodeJS, Vue, NextJS
 Learning: Rust, Go, Elixir
-Discord: ayowxifu♡#6969
+Discord: wxifu♡#6969
 ```
